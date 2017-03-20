@@ -1,0 +1,3 @@
+- decide table structure and set up using sqlalchemy
+- get flask up for routes and templating
+- decide how to handle auth
